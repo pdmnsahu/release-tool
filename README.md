@@ -4,8 +4,8 @@ A single-page application for tracking software release progress through a fixed
 
 ## Live Demo
 
-- **Frontend:** `https://your-app.vercel.app`
-- **Backend:** `https://your-api.onrender.com`
+- **Frontend:** `https://release-tool.vercel.app/`
+- **Backend:** `https://release-tool.onrender.com/`
 
 ---
 
@@ -19,8 +19,8 @@ A single-page application for tracking software release progress through a fixed
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/release-checklist.git
-cd release-checklist
+git clone https://github.com/pdmnsahu/release-tool.git
+cd release-tool
 ```
 
 ### 2. Set up the backend
